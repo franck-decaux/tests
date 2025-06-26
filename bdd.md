@@ -1,8 +1,10 @@
-### Base de données *SQLite*
+# Base de données *SQLite*
 
-## tables :
+## Tables :
 - auteurs
 - livres
+
+## Schémas :
 
 ```sql
 CREATE TABLE AUTEURS
