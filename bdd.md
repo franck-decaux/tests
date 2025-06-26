@@ -12,8 +12,8 @@ CREATE TABLE LIVRES
 (id INT, titre TEXT, id_auteur INT, ann_publi INT, note INT, PRIMARY KEY (id), FOREIGN KEY (id_auteur) REFERENCES AUTEURS(id));
 ```
 
-```mermed
-ER Diagram
+```mermaid
+erDiagram
     AUTEURS {
         INT id PK
         TEXT nom
