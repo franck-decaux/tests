@@ -1,3 +1,7 @@
+# Mesure de température
+
+## Synoptique
+
 ```mermaid
 flowchart LR
     TempCapteur["Capteur Température"] --> Microbit["Micro:bit"]
