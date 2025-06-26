@@ -11,7 +11,7 @@ flowchart LR
     Raspberry <-->  Internet(("Internet"))
 ```
 
-### Ce document présente, à l'aide de diagrammes UML Mermaid, l'architecture d'un projet :
+### Architecture d'un projet :
 
 - Mesure de température par capteur analogique
 - Transmission des données à une micro:bit
