@@ -34,7 +34,9 @@ Synchronisation dans *GitHub* par le **Contrôle de code source** (`Ctrl+Maj+G`)
 
 ---
 
-Pas chouette finalement... Il y a quelques années je dessinais des trucs comme ça (pas avec *Draw.io*) :
+Pas chouette finalement... Il y a quelques années je dessinais des trucs comme ça (pas avec *draw.io*) :
 
 ![EasyEda](nanoboard.svg)
 ![EasyEda](pcb.svg)
+
+La viellerie me guette 😕
