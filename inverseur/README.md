@@ -32,3 +32,10 @@ Synchronisation dans *GitHub* par le **Contrôle de code source** (`Ctrl+Maj+G`)
 
 ![drawio](transistor.drawio.svg)
 
+---
+
+Pas chouette finalement... Il y a quelques années je dessinais des trucs comme ça (pas avec *Draw.io*) :
+
+![EasyEda](nanoboard.svg)
+![EasyEda](pcb.svg)
+
