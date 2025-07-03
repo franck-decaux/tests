@@ -1,5 +1,7 @@
 # L'inverseur
 
+> ou fonction logique `NON`
+
 ## Principe
 
 ![drawio](inverseur.drawio.svg)
