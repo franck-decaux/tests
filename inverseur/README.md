@@ -1,9 +1,14 @@
-*Outils utilisés :*
+Page *markdown* réalisée dans `VS Code`
 
-- Extension *VS Code* [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-- Extension *VS Code* [Draw.io Integration: WaveDrom plugin](https://marketplace.visualstudio.com/items?itemName=nopeslide.vscode-drawio-plugin-wavedrom)
-- Éditeur de chronogrames [Wavedrom](https://wavedrom.com/editor.html)
-- Convertisseur `JS Objetc -> JSON` [transform.tools](https://transform.tools/js-object-to-json)
+> Outils utilisés :
+> - Extension *VS Code* [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+> - Extension *VS Code* [Draw.io Integration: WaveDrom plugin](https://marketplace.visualstudio.com/items?itemName=nopeslide.vscode-drawio-plugin-wavedrom)
+> - Éditeur de chronogrames [Wavedrom](https://wavedrom.com/editor.html)
+> - Convertisseur `JS Objetc -> JSON` [transform.tools](https://transform.tools/js-object-to-json)
+
+Synchronisation dans *GitHub* par le **Contrôle de code source** (`Ctrl+Maj+G`)
+
+---
 
 # L'inverseur
 
