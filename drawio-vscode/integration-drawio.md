@@ -2,8 +2,4 @@
 
 Extension VSCode Dispo sur le [MarketPlace](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
-> le schema `schema.drawio.svg` intègre le code XML drawio
-
 ![schema](schema.drawio.svg)
-
-Ce `svg` intègre le `xml` de description du schéma, pour édition dans VSCode.
