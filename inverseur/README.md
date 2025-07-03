@@ -2,6 +2,8 @@
 
 > ou fonction logique `NON`
 
+![drawio](synoptique.drawio.svg)
+
 ## Table de vérité
 
 | entrée | sortie |
@@ -9,7 +11,7 @@
 |   0    |   1    |
 |   1    |   0    |
 
-## Principe
+## Symbole et chronogramme
 
 ![drawio](inverseur.drawio.svg)
 
