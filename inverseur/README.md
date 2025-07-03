@@ -38,4 +38,3 @@ Pas chouette finalement... Il y a quelques années je dessinais des trucs comme 
 
 ![EasyEda](nanoboard.svg)
 ![EasyEda](pcb.svg)
-
